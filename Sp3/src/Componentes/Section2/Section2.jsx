@@ -49,7 +49,7 @@ function Section2(){
                         Nossa missão é solucionar problemas enfrentados por hospitais com os conhecimentos que aprendemos até o momento.
                     </p>
                     <p id="texto3" style={style3} class="sec3-txt">
-                        Gustavo Bezerra: Gestor<br/><br/>
+                        Joseh Gabriel: Gestor<br/><br/>
                         Jeferson Gabriel: Design<br/><br/>
                         Larissa Estella, Lucas Masaki e Vitor Vilares: Programadores
                     </p>

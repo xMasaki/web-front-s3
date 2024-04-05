@@ -71,10 +71,10 @@ function Rodape(){
                         <ul>
                             <p class="titulo-footer">CONHEÇA NOSSO TIME</p>
                             <li>
-                                <a href="https://www.linkedin.com/in/gustavo-bezerra-829202289/" class="texto-foot">Gustavo Bezerra</a>
+                                <a href="https://www.linkedin.com/in/jeferson-gabriel-de-mendon%C3%A7a-59b443210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app " class="texto-foot">Jeferson Gabriel</a>
                             </li>
                             <li>
-                                <a href="https://www.linkedin.com/in/jeferson-gabriel-de-mendon%C3%A7a-59b443210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app " class="texto-foot">Jeferson Gabriel</a>
+                                <a href="" class="texto-foot">Joseh Gabriel</a>
                             </li>
                             <li>
                                 <a href="" class="texto-foot">Larissa Estella</a>
